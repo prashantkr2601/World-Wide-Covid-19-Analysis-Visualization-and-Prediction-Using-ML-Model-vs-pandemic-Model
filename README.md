@@ -15,7 +15,7 @@
 > **<p align="justify"> inear Regression(LR), Polynomial Regression, Support Vector Machine(SVM) and Pandemic Model.** calculations have been applied for estimating of COVID-19 cases dependent on a little volume of information. This investigation depends on 48 weeks affirmed and demise cases gathered.</p>
 
 <h2 align= "center"> Flow Diagram of purposed solution:</h2>
-<img src="./Image/flow Chat.png" alt="iagrammatic Approch for the workflow of proposed methodology" width="100%" height="350px"/>
+<img src="./Image/flow Chat.png" alt="iagrammatic Approch for the workflow of proposed methodology" width="100%" height="550px"/>
 
 > _Diagrammatic Approch for the workflow of proposed methodology._
 
